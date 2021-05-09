@@ -1,0 +1,8 @@
+/*Hidden elements for semantisk HTML*/
+.about h1{
+    display: none;
+}
+.info-right h3{
+    display: none;
+}
+
